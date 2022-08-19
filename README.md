@@ -64,7 +64,7 @@ Use imbalanced Pipeline, PCA, to construct a 0.79 accuracy score Random Forest C
 
 ## Model Deployment
 * use streamlit to deploy the system
-
+![My Image](UI_app.png)
 
 
 ## Acknowledgments
