@@ -30,8 +30,8 @@ st.title('Spotify Song Recommendation and Genre Prediction')
 st.markdown('by Olivia Han')
                         
                            
-SPOTIPY_CLIENT_ID ="5fa94e0115a647dcaadb62afe1518ac5"
-SPOTIPY_CLIENT_SECRET ="dcaff58629a7442b9bc9c2a11e081a5f" 
+SPOTIPY_CLIENT_ID =SPOTIPY_CLIENT_ID
+SPOTIPY_CLIENT_SECRET =SPOTIPY_CLIENT_SECRET 
 
 sp = spotipy.Spotify(
     auth_manager=SpotifyClientCredentials (
